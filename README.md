@@ -1,3 +1,3 @@
-# Template  
+# Easy Inn
 
-Vite + Vue + Pinia + Firebase + Vue Router + Primevue
+Easy Inn Managment app
